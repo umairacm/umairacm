@@ -19,8 +19,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=umairacm&show_icons=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairacm&theme=transparent" height="150"/>
 </p>
 
 ---
@@ -34,9 +34,7 @@
 
 ## 🤝 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/your-link/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="https://twitter.com/your-handle"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
-  <a href="https://your-website.com"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://umairacm.github.com"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 </p>
 
 ---
