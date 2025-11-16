@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/umairacm/umairacm/blob/main/banner.png" width="100%" alt="Banner"/>
+  <img src="https://github.com/umairacm/umairacm/blob/main/20251116_123438.jpg" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm UMAIRA CM</h1>
