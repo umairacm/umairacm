@@ -1,19 +1,19 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/banner.png" width="100%" alt="Banner"/>
+  <img src="https://github.com/umaira cm/blob/main/banner.png" width="100%" alt="Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm UMAIRA CM</h1>
 <h3 align="center">Building things that matter. Learning every day.</h3>
 
 ---
 
 ## 🔧 Tech Stack
 **Languages:**  
-![Languages](https://skillicons.dev/icons?i=ts,js,py,go,java,rust,cpp)
+![Languages](https://skillicons.dev/icons?i=js,py)
 
 **Frameworks & Tools:**  
-![Tools](https://skillicons.dev/icons?i=react,vue,nodejs,express,tailwind,postgres,docker,linux,git,graphql)
+![Tools](https://skillicons.dev/icons?i=nodejs)
 
 ---
 
@@ -28,16 +28,7 @@
 ## 🚀 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Project One** | Short tagline about the project | React, Node, Postgres |
-| **Project Two** | Another cool one-liner | Go, Docker |
-| **Project Three** | Something creative | Rust, WebAssembly |
-
----
-
-## 📝 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming soon…
-<!-- BLOG-POST-LIST:END -->
+| **Quizbot** | WhatsApp Bot Which Allows Professioal Quiz Programs | Node.js|
 
 ---
 
