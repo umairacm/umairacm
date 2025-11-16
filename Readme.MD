@@ -35,6 +35,9 @@
 ## 🤝 Connect With Me
 <p>
   <a href="https://github.com/umairacm"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+<a href="mailto:umairaumerpklucm@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+</a>
 </p>
 
 ---
