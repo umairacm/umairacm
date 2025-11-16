@@ -34,7 +34,7 @@
 
 ## 🤝 Connect With Me
 <p>
-  <a href="https://umairacm.github.com"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://github.com/umairacm"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 </p>
 
 ---
